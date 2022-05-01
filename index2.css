@@ -38,6 +38,14 @@
     margin-top:20px;
     padding:10px 40px;
   }
+  #input{
+    width: 300px;
+    height: 33px;
+  }
+  p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
   
   .anim-trans {
     animation: anim 4s ease-in-out;
