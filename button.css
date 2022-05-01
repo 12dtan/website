@@ -43,8 +43,8 @@ h1 {
   text-align: left;
   color: #444;
   letter-spacing: 0.05em;
-  margin: 0 0 0.4em;
-  font-size: 50px;
+  margin: 0 0 5px;
+  font-size: 100px;
 }
 
 p {
@@ -54,6 +54,7 @@ p {
   font-size: 0.8em;
   margin: 0 0 2em;
 }
+
 .btn {
   letter-spacing: 0.1em;
   cursor: pointer;
